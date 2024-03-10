@@ -1,0 +1,2 @@
+Nombre: victo, Apellido: bhhh, Puesto: hhhh, Salario: 1500.0
+Nombre: dfgfdsg, Apellido: essegserg, Puesto: esgrgresg, Salario: 156165.0
